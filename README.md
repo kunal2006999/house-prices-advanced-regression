@@ -88,6 +88,10 @@ submission.to_csv("submission.csv", index=False)
 
 Kaggle Competition: House Prices – Advanced Regression Techniques
 
+Kaggle learn: https://www.kaggle.com/learn/intro-to-machine-learning
+
+Kaggle learn: https://www.kaggle.com/learn/intermediate-machine-learning
+
 Scikit-learn Pipeline & ColumnTransformer docs: https://scikit-learn.org
 
 XGBoost Python docs: https://xgboost.readthedocs.io
